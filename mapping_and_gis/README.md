@@ -8,3 +8,4 @@
 * [Pennsylvania Spatial Data Access (PASDA)](https://www.pasda.psu.edu/) - All kinds of shapefiles relevant to Pennsylvania
 * [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) - Legal boundaries for US Census Bureau data, pretty much necessary for mapping anything by Census tract or Census block group. 
 * [Government Shapefiles](https://catalog.data.gov/dataset?tags=shapefile) - there's a whole lot here, from a lot of different government sources
+* [Robin Wilson Free GIS Datasets](https://freegisdata.rtwilson.com/) - Massive source of free data for GIS covering multiple categories and countries. (Added by JasonS)
