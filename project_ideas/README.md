@@ -2,7 +2,7 @@
 
 ## Projects that have been started, and you might be able to take them further
 
-* [subdirectories in this folder](./) - brief descriptions
+* [subdirectories in this folder](./) - brief descriptions go here
 
 ## Project ideas brainstormed by Spring 2020 DAT-201 students:
 
