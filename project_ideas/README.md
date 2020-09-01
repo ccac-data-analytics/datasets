@@ -13,3 +13,4 @@
 * Wealth vs. school ratings
 * Number and/or size of companies in various municipalities
 * Election results - margins by which various candidates won/lost
+* [Number of Spirit Halloween stores: a gauge for relative poverty in an area, or now?](https://twitter.com/spindlypete/status/1300895570337304576)
